@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto de Formulário" src=".git/formulario-preview.png" width="100%">
+  <img alt="Projeto de Formulário" src=".github/formulario-preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
